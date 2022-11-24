@@ -12,7 +12,7 @@ Many of our Gift Subscription features.
 
 ![gift-subscription-screen](https://user-images.githubusercontent.com/11914897/203818857-dc1e87f0-a5cf-48a3-94f3-4d619917df4d.png)
 
-And most recently, I'm rearchitecting the systems that power the messages we show on our paywall and other spaces across Web and Mobile.
+And most recently, I'm rearchitecting the systems that decide which messages we show on our paywall and other spaces across Web and Mobile.
 
 ![paywall-screen](https://user-images.githubusercontent.com/11914897/203819484-2915d7f6-35e8-4cf0-ba9b-f972180734b4.png)
 
