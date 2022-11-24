@@ -4,7 +4,7 @@ I'm a Staff Software Engineer at [The New York Times](https://open.nytimes.com).
 
 ### At The Times
 
-I've made features like Subscriber Gift Articles.
+I architecture and built (along with many others!) features like Subscriber Gift Articles.
 
 ![subscriber-gift-articles-screen](https://user-images.githubusercontent.com/11914897/203818464-289c25e1-7fe5-4dbc-bb85-033aeafa6ad7.png)
 
