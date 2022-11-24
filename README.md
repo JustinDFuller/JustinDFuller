@@ -8,7 +8,7 @@ I architected and built (along with many others!) features like [Subscriber Gift
 
 ![subscriber-gift-articles-screen](https://user-images.githubusercontent.com/11914897/203818464-289c25e1-7fe5-4dbc-bb85-033aeafa6ad7.png)
 
-Our Gift Subscription Feature.
+Many of our Gift Subscription features.
 
 ![gift-subscription-screen](https://user-images.githubusercontent.com/11914897/203818857-dc1e87f0-a5cf-48a3-94f3-4d619917df4d.png)
 
