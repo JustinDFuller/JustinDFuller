@@ -40,16 +40,21 @@ And I'm currently building [Better Interviews](https://interviews.justindfuller.
 
 ### Writing
 
-I also write about life.
+On my blog at [justindfuller.com](https://www.justindfuller.com) you'll find my writing about...
+
+Software Engineering
+
+![writing-tech-screen](https://user-images.githubusercontent.com/11914897/203987993-54d67678-fd78-40d0-b877-54e2d140884b.png)
+
+
+Life
 
 ![writing-life-screen](https://user-images.githubusercontent.com/11914897/203823941-467877e8-d4c0-4805-b544-0f04790f9047.png)
 
-Short Stories.
+Short Stories
 
 ![writing-story-screen](https://user-images.githubusercontent.com/11914897/203824062-832d88b5-d30d-485a-85de-7fbb56324904.png)
 
-And Poetry.
+and Poetry
 
 ![writing-poetry-screen](https://user-images.githubusercontent.com/11914897/203824176-634fbc48-1072-4b8a-af93-63f2857b9f22.png)
-
-You can find my writing on my blog, [justindfuller.com](https://www.justindfuller.com).
