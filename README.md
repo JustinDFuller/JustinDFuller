@@ -16,7 +16,7 @@ And most recently, I'm rearchitecting the systems that decide which messages we 
 
 ![paywall-screen](https://user-images.githubusercontent.com/11914897/203819484-2915d7f6-35e8-4cf0-ba9b-f972180734b4.png)
 
-### On my own
+### My Projects
 
 I like to build projects in my free time that make my life better.
 
