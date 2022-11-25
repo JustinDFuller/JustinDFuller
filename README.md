@@ -18,7 +18,7 @@ And most recently, I'm rearchitecting the systems that decide which messages we 
 
 ### My Projects
 
-I like to build projects in my free time that make my life better.
+In my free time, I like to build projects that make my life better.
 
 #### Purchase Plan
 
@@ -45,7 +45,6 @@ On my blog at [justindfuller.com](https://www.justindfuller.com) you'll find my 
 Software Engineering
 
 ![writing-tech-screen](https://user-images.githubusercontent.com/11914897/203987993-54d67678-fd78-40d0-b877-54e2d140884b.png)
-
 
 Life
 
