@@ -28,7 +28,7 @@ I built [purchaseplan.io](https://www.purchaseplan.io) to plan my purchases.
 
 #### Really Simple Notes
 
-I built [reallysimplenotes.com](https://www.reallysimplenotes.com) to help me remain focused and write better notes.
+I built [reallysimplenotes.com](https://www.reallysimplenotes.com) to help me focus on the content, rather than style, of my notes.
 
 ![really-simple-notes-screen](https://user-images.githubusercontent.com/11914897/203820596-c7cb88d0-9398-484f-9c93-4a5a8e661ced.png)
 
