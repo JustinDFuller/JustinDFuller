@@ -18,11 +18,11 @@ Most recently, I architected, and am now building the next generation of systems
 
 ### My Projects
 
-In my free time, I like to build projects that make my life better.
+In my free time, I build projects that make my life better.
 
 #### Purchase Plan
 
-I built [purchaseplan.io](https://www.purchaseplan.io) to help my wife and I plan our purchases.
+I built [purchaseplan.io](https://www.purchaseplan.io) to plan my purchases.
 
 ![purchase-plan-screen](https://user-images.githubusercontent.com/11914897/203820085-cd01c6d7-c29a-4fb2-94ed-4aa3914ba61f.png)
 
@@ -34,13 +34,13 @@ I built [reallysimplenotes.com](https://www.reallysimplenotes.com) to help me re
 
 #### Better Interviews
 
-And I'm currently building [Better Interviews](https://www.betterinterview.club) to reduce bias in the interviews I conduct.
+And I'm building [betterinterview.club](https://www.betterinterview.club) to reduce bias in interviews.
 
 ![betterinterviewclub](https://user-images.githubusercontent.com/11914897/204137704-65ef7478-e032-4112-8ca7-47e714ebcab6.png)
 
 ### Writing
 
-On my blog at [justindfuller.com](https://www.justindfuller.com) you'll find my writing about...
+On my blog at [justindfuller.com](https://www.justindfuller.com) you'll find my writing about:
 
 Software Engineering
 
