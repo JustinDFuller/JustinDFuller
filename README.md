@@ -34,9 +34,9 @@ I built [reallysimplenotes.com](https://www.reallysimplenotes.com) to help me re
 
 #### Better Interviews
 
-And I'm currently building [Better Interviews](https://interviews.justindfuller.com) to reduce bias in the interviews I conduct.
+And I'm currently building [Better Interviews](https://www.betterinterview.club) to reduce bias in the interviews I conduct.
 
-![better-interviews-screen](https://user-images.githubusercontent.com/11914897/203820985-b7243180-fa72-4950-8cb0-cb2a786b6a05.png)
+![betterinterviewclub](https://user-images.githubusercontent.com/11914897/204137704-65ef7478-e032-4112-8ca7-47e714ebcab6.png)
 
 ### Writing
 
