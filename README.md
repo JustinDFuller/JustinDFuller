@@ -38,6 +38,12 @@ And I'm building [betterinterview.club](https://www.betterinterview.club) to red
 
 ![betterinterviewclub](https://user-images.githubusercontent.com/11914897/204137704-65ef7478-e032-4112-8ca7-47e714ebcab6.png)
 
+#### ai-plans.dev
+
+I built [ai-plans.dev](https://ai-plans.dev) to help teams improve their experience with AI.
+
+![ai-plans.dev](https://github.com/user-attachments/assets/ffd8a6d4-a953-4d36-b306-5bcf911ed6d5)
+
 ### Writing
 
 On my blog at [justindfuller.com](https://www.justindfuller.com) you'll find my writing about:
