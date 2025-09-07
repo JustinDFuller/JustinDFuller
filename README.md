@@ -4,7 +4,7 @@ I'm a Staff Software Engineer at [The New York Times](https://open.nytimes.com).
 
 ### At The Times
 
-I am the tech lead for a group of teams called Access and Messaging. This comprises the teams Onsite Messaging, Offers, Access, and Auth.
+I am the tech lead for a group of teams called Access and Messaging Systems. This comprises the teams Onsite Messaging, Offers, Access, and Auth.
 
 Most recently, I architected, built, shipped, and led a successful migration to the next generation of systems that decide which messages we show on our paywall and other spaces across web and mobile.
 
