@@ -52,16 +52,16 @@ On my blog at [justindfuller.com](https://www.justindfuller.com) you'll find my 
 
 Software Engineering
 
-![writing-tech-screen](https://user-images.githubusercontent.com/11914897/203987993-54d67678-fd78-40d0-b877-54e2d140884b.png)
+![why-do-we-fall-in-the-rewrite-trap](https://github.com/user-attachments/assets/bdad468c-a690-46da-9b94-1e1cd7093994)
 
 Life
 
-![writing-life-screen](https://user-images.githubusercontent.com/11914897/203823941-467877e8-d4c0-4805-b544-0f04790f9047.png)
+![living-on-24-hours-a-day](https://github.com/user-attachments/assets/7e94e166-774a-4e36-862c-335b7f7dba9b)
 
 Short Stories
 
-![writing-story-screen](https://user-images.githubusercontent.com/11914897/203824062-832d88b5-d30d-485a-85de-7fbb56324904.png)
+![the-philosophy-of-trees](https://github.com/user-attachments/assets/24fa85b7-e058-4870-a605-bd4ace2ca78e)
 
 and Poetry
 
-![writing-poetry-screen](https://user-images.githubusercontent.com/11914897/203824176-634fbc48-1072-4b8a-af93-63f2857b9f22.png)
+![poems](https://github.com/user-attachments/assets/c9902124-2fc2-418d-9836-2fd33e36276c)
